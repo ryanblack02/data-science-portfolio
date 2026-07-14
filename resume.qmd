@@ -1,91 +1,109 @@
+```markdown
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ryan Black's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Ryan Black
+Computer Science Student | Aspiring Software Developer | Data Science Enthusiast
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="mailto:ryan.burge.black@gmail.com">ryan.burge.black@gmail.com</a>
+| <a href="https://github.com/ryanblack02">GitHub Profile</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Computer Science student at Brigham Young University–Idaho with experience in software development, data analysis, and collaborative programming projects. Passionate about building interactive applications, solving challenging programming problems, and expanding my knowledge of data science and machine learning.
 
-### Specialized in
+### Technical Skills
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+**Programming Languages**
 
+- Python
+- R
+- SQL
+- JavaScript
+- HTML
+- CSS
 
-### Research interests
+**Tools & Technologies**
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Git
+- GitHub
+- Visual Studio Code
+- Quarto
+- Streamlit
+- Polars
+- Microsoft Office
 
+### Areas of Interest
+
+Software Engineering, Data Science, Machine Learning, Web Development, Data Visualization, Object-Oriented Programming
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected Graduation: Winter 2028`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Brigham Young University–Idaho__
 
-- Sizar
+Bachelor of Science in Computer Science
 
-`1667 - death`
-__Trinity College, Cambridge__
+Relevant Coursework:
 
-- Fellow
+- Software Engineering
+- Data Science Programming
+- Database Systems
+- Web Development
+- Statistics
+- Data Structures
 
+## Projects
 
+### Keyboard Jumper: Hardcore Mode
 
-## Awards
+Developing a browser-based typing game using JavaScript and object-oriented programming principles. The project features multiple difficulty levels, performance statistics, adaptive gameplay mechanics, responsive design, and an engaging arcade-inspired user experience.
 
-`2012`
-President, *Royal Society*, London, UK
+### Animal Word Search
 
-Associate, *French Academy of Science*, Paris, France
+Designed and developed an interactive browser-based word search game using HTML, CSS, and JavaScript. Features include dynamically generated puzzles, multiple animal categories, adjustable difficulty levels, drag-to-select gameplay, accessibility enhancements, and responsive design.
 
+### FSU Boosters Dashboard
 
+Collaborated with the BYU–Idaho Data Science Society on a team-based analytics project using R, Quarto, GitHub, and data visualization techniques to explore university booster data and communicate insights.
 
-## Publications
+## Professional Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`May 2024 – August 2024`
 
-### Journals
+__Unit Healthcare, Inc.__
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+- Assisted with daily operational responsibilities in a professional healthcare environment.
+- Collaborated effectively with coworkers while maintaining accuracy and organization.
+- Strengthened communication, teamwork, and time-management skills.
 
-`1669`
-Lectiones opticæ.
+`2022 – 2024`
 
-etc. etc. etc.
+__Uber Eats Delivery Driver__
 
-### Patents
+- Managed deliveries independently while providing excellent customer service.
+- Demonstrated reliability, organization, and strong time-management skills.
+- Adapted quickly to changing routes and customer needs while maintaining efficiency.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Leadership & Activities
 
+### BYU–Idaho Data Science Society
 
-## Occupation
+Participated in collaborative data science projects using GitHub, R, Quarto, and modern software development workflows.
 
-`1600`
-__Royal Mint__, London
+## Strengths
 
-- Warden
-- Minted coins
+- Analytical problem solving
+- Attention to detail
+- Independent learner
+- Collaborative team member
+- Software design and development
+- Version control using Git and GitHub
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+<!-- Last updated: July 2026 -->
+```
