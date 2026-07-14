@@ -1,0 +1,428 @@
+[
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project4.html",
+    "href": "Story_Telling/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Ryan Black - Data Science Portfolio",
+    "section": "",
+    "text": "---\nlayout: cv\ntitle: Ryan Black's CV\n---\n\n# Ryan Black\nComputer Science Student | Aspiring Software Developer | Data Science Enthusiast\n\n&lt;div id=\"webaddress\"&gt;\n&lt;a href=\"mailto:ryan.burge.black@gmail.com\"&gt;ryan.burge.black@gmail.com&lt;/a&gt;\n| &lt;a href=\"https://github.com/ryanblack02\"&gt;GitHub Profile&lt;/a&gt;\n&lt;/div&gt;\n\n## Currently\n\nComputer Science student at Brigham Young University–Idaho with experience in software development, data analysis, and collaborative programming projects. Passionate about building interactive applications, solving challenging programming problems, and expanding my knowledge of data science and machine learning.\n\n### Technical Skills\n\n**Programming Languages**\n\n- Python\n- R\n- SQL\n- JavaScript\n- HTML\n- CSS\n\n**Tools & Technologies**\n\n- Git\n- GitHub\n- Visual Studio Code\n- Quarto\n- Streamlit\n- Polars\n- Microsoft Office\n\n### Areas of Interest\n\nSoftware Engineering, Data Science, Machine Learning, Web Development, Data Visualization, Object-Oriented Programming\n\n## Education\n\n`Expected Graduation: Winter 2028`\n\n__Brigham Young University–Idaho__\n\nBachelor of Science in Computer Science\n\nRelevant Coursework:\n\n- Software Engineering\n- Data Science Programming\n- Database Systems\n- Web Development\n- Statistics\n- Data Structures\n\n## Projects\n\n### Keyboard Jumper: Hardcore Mode\n\nDeveloping a browser-based typing game using JavaScript and object-oriented programming principles. The project features multiple difficulty levels, performance statistics, adaptive gameplay mechanics, responsive design, and an engaging arcade-inspired user experience.\n\n### Animal Word Search\n\nDesigned and developed an interactive browser-based word search game using HTML, CSS, and JavaScript. Features include dynamically generated puzzles, multiple animal categories, adjustable difficulty levels, drag-to-select gameplay, accessibility enhancements, and responsive design.\n\n### FSU Boosters Dashboard\n\nCollaborated with the BYU–Idaho Data Science Society on a team-based analytics project using R, Quarto, GitHub, and data visualization techniques to explore university booster data and communicate insights.\n\n## Professional Experience\n\n`May 2024 – August 2024`\n\n__Unit Healthcare, Inc.__\n\n- Assisted with daily operational responsibilities in a professional healthcare environment.\n- Collaborated effectively with coworkers while maintaining accuracy and organization.\n- Strengthened communication, teamwork, and time-management skills.\n\n`2022 – 2024`\n\n__Uber Eats Delivery Driver__\n\n- Managed deliveries independently while providing excellent customer service.\n- Demonstrated reliability, organization, and strong time-management skills.\n- Adapted quickly to changing routes and customer needs while maintaining efficiency.\n\n## Leadership & Activities\n\n### BYU–Idaho Data Science Society\n\nParticipated in collaborative data science projects using GitHub, R, Quarto, and modern software development workflows.\n\n## Strengths\n\n- Analytical problem solving\n- Attention to detail\n- Independent learner\n- Collaborative team member\n- Software design and development\n- Version control using Git and GitHub\n\n&lt;!-- Last updated: July 2026 --&gt;\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Machine_Learning/project5.html",
+    "href": "Machine_Learning/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project4.html",
+    "href": "Full_Stack/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Competition/project5.html",
+    "href": "Competition/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project4.html",
+    "href": "Cleansing_Projects/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project5.html",
+    "href": "Cleansing_Exploration/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project3.html",
+    "href": "Cleansing_Exploration/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Exploration/project4.html",
+    "href": "Cleansing_Exploration/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "Cleansing_Projects/project1.html",
+    "href": "Cleansing_Projects/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project3.html",
+    "href": "Cleansing_Projects/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project5.html",
+    "href": "Cleansing_Projects/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project4.html",
+    "href": "Competition/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "competition.html",
+    "href": "competition.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "competition.html#title-2-header",
+    "href": "competition.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Competition"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project3.html",
+    "href": "Full_Stack/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project5.html",
+    "href": "Full_Stack/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 5"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ryan Black",
+    "section": "",
+    "text": "I am a Computer Science student at Brigham Young University–Idaho with interests in software development, data science, and creating interactive applications.\nI enjoy solving programming problems, learning new technologies, and building projects that combine creativity with technical skills.\n\n\n\n\nA browser-based typing game developed with JavaScript using object-oriented programming principles. The project includes difficulty levels, performance tracking, adaptive gameplay mechanics, and responsive design.\n\n\n\nAn interactive web-based word search game created with HTML, CSS, and JavaScript. Features include dynamic puzzle generation, animal categories, difficulty selection, drag-to-select gameplay, and responsive design.\n\n\n\nA collaborative data science project using R, Quarto, GitHub, and data visualization techniques to analyze university booster data."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Ryan Black",
+    "section": "",
+    "text": "A browser-based typing game developed with JavaScript using object-oriented programming principles. The project includes difficulty levels, performance tracking, adaptive gameplay mechanics, and responsive design.\n\n\n\nAn interactive web-based word search game created with HTML, CSS, and JavaScript. Features include dynamic puzzle generation, animal categories, difficulty selection, drag-to-select gameplay, and responsive design.\n\n\n\nA collaborative data science project using R, Quarto, GitHub, and data visualization techniques to analyze university booster data."
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project4.html",
+    "href": "Machine_Learning/project4.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 4"
+    ]
+  },
+  {
+    "objectID": "ml.html",
+    "href": "ml.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "ml.html#title-2-header",
+    "href": "ml.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Machine Learning"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project5.html",
+    "href": "Story_Telling/project5.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Project 5"
+    ]
+  }
+]
