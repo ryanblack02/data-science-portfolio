@@ -1,10 +1,24 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Ryan Black"
+subtitle: "Computer Science Student | Data Science Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+# About Me
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+I am a Computer Science student at Brigham Young University–Idaho with interests in software development, data science, and creating interactive applications.
+
+I enjoy solving programming problems, learning new technologies, and building projects that combine creativity with technical skills.
+
+## Featured Projects
+
+### Keyboard Jumper: Hardcore Mode
+
+A browser-based typing game developed with JavaScript using object-oriented programming principles. The project includes difficulty levels, performance tracking, adaptive gameplay mechanics, and responsive design.
+
+### Animal Word Search
+
+An interactive web-based word search game created with HTML, CSS, and JavaScript. Features include dynamic puzzle generation, animal categories, difficulty selection, drag-to-select gameplay, and responsive design.
+
+### FSU Boosters Dashboard
+
+A collaborative data science project using R, Quarto, GitHub, and data visualization techniques to analyze university booster data.

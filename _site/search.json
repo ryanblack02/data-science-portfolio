@@ -364,16 +364,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Ryan Black",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "I am a Computer Science student at Brigham Young University–Idaho with interests in software development, data science, and creating interactive applications.\nI enjoy solving programming problems, learning new technologies, and building projects that combine creativity with technical skills.\n\n\n\n\nA browser-based typing game developed with JavaScript using object-oriented programming principles. The project includes difficulty levels, performance tracking, adaptive gameplay mechanics, and responsive design.\n\n\n\nAn interactive web-based word search game created with HTML, CSS, and JavaScript. Features include dynamic puzzle generation, animal categories, difficulty selection, drag-to-select gameplay, and responsive design.\n\n\n\nA collaborative data science project using R, Quarto, GitHub, and data visualization techniques to analyze university booster data."
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Ryan Black",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "A browser-based typing game developed with JavaScript using object-oriented programming principles. The project includes difficulty levels, performance tracking, adaptive gameplay mechanics, and responsive design.\n\n\n\nAn interactive web-based word search game created with HTML, CSS, and JavaScript. Features include dynamic puzzle generation, animal categories, difficulty selection, drag-to-select gameplay, and responsive design.\n\n\n\nA collaborative data science project using R, Quarto, GitHub, and data visualization techniques to analyze university booster data."
   },
   {
     "objectID": "Machine_Learning/project2.html",

@@ -2,39 +2,25 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Ryan Black - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/ryanblack02/data-science-portfolio
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
-    right: 
-      - icon: linkedin
-        href: Your_LinkedIn_URL
+    left: "Ryan Black 2026©"
+    right:
 
   navbar:
-    background: primary
-    search: true   
-    right:
-      - text: "Home"
-        file: index.qmd
-      - text: "My Resume"
-        file: resume.qmd
-      - text: "Data Cleansing"
-        file: cleansing.qmd
-      - text: "Data Exploration"
-        file: exploration.qmd
-      - text: "Story Telling"
-        file: story_telling.qmd
-      - text: "Machine Learning"
-        file: ml.qmd
-      - text: "Full Stack"
-        file: full_stack.qmd
-      - text: "Competition"
-        file: competition.qmd
+  background: primary
+  search: true   
+  right:
+    - text: "Home"
+      file: index.qmd
+    - text: "Resume"
+      file: resume.qmd
   
   # learn more about navication here https://quarto.org/docs/websites/website-navigation.html
   # comment out any of the sections below to turn off the sidebar
